@@ -6,6 +6,7 @@ services:
     image: nginx:latest
     volumes:
       - './nginx/nginx.template.conf:/etc/nginx/nginx.conf'
+      - ./app:/home/app
       # - ./nginx/certbot/conf:/etc/nginx/ssl
       # - ./nginx/certbot/data:/var/www/certbot
     ports:
