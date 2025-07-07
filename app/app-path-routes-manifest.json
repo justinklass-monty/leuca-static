@@ -1,9 +1,0 @@
-{
-  "/api/subscribe/route": "/api/subscribe",
-  "/find-us/page": "/find-us",
-  "/contact/page": "/contact",
-  "/story/page": "/story",
-  "/_not-found/page": "/_not-found",
-  "/page": "/",
-  "/privacy/page": "/privacy"
-}
