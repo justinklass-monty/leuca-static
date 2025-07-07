@@ -11,7 +11,7 @@
       "matchers": [
         {
           "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?(?:\\/((?!api|_next\\/static|_next\\/image|favicon.ico|images|videos).*))(\\.json)?[\\/#\\?]?$",
-          "originalSource": "/((?!api|_next/static|_next/image|favicon.ico|images|videos).*)"
+          "originalSource": "/((?!api|static|image|favicon.ico|images|videos).*)"
         }
       ],
       "wasm": [],

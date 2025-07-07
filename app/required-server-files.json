@@ -46,7 +46,7 @@
         256,
         384
       ],
-      "path": "/_next/image",
+      "path": "/image",
       "loader": "default",
       "loaderFile": "",
       "domains": [],
